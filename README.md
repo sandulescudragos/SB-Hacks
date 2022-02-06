@@ -16,5 +16,5 @@
 
 ![image8](https://user-images.githubusercontent.com/47566133/152687307-1cea9889-7aa1-4dd9-8b1d-d725028121db.png)
 
-<img src="https://user-images.githubusercontent.com/47566133/152687308-873004c7-bf57-4fcf-9db4-743d7719a188.png" width="10" height="10" />
+<img src="https://user-images.githubusercontent.com/47566133/152687308-873004c7-bf57-4fcf-9db4-743d7719a188.png" width="50" height="50" />
 
